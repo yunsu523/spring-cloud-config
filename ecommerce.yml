@@ -1,6 +1,6 @@
 token:
   expiration_time: 8640 #하루
-  secret: user_token_ecommerce
+  secret: value1
 
 gateway:
   ip: localhost
