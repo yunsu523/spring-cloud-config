@@ -1,6 +1,6 @@
 token:
-  expiration_time: 8640 #하루
-  secret: value1
+  expiration_time: 864000000 #하루
+  secret: my_token
 
 gateway:
   ip: localhost
