@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000 #하루
-  secret: my_token_dev
+  secret: my_token_dev_#2
 
 gateway:
   ip: localhost
